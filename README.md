@@ -41,7 +41,8 @@ After finishing the breadboard prototype, I recreated the circuit in KiCad, ran 
 firmware/   Arduino code
 hardware/   KiCad schematic and PCB
 gerbers/    Manufacturing files
-images/     Project screenshots
+images/     Project screenshots '''
+
 Future Improvements
 Tap tempo
 More rhythm modes
