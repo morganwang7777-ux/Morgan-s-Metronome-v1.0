@@ -4,6 +4,7 @@ Arduino-based digital metronome developed from a breadboard prototype into a cus
 
 ## Features
 
+- 100 mm × 90 mm size shield
 - Adjustable 40–180 BPM
 - 5 BPM increments using a 10k potentiometer
 - Start/Stop button
