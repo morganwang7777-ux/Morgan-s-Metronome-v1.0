@@ -1,6 +1,6 @@
 # Morgan's Metronome v1.0
 
-Arduino-based digital metronome developed from a breadboard prototype into a custom KiCad PCB shield.
+Arduino-based digital metronome developed from a breadboard prototype into a custom KiCad PCB shield. (First Project)
 
 ## Features
 
