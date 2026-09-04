@@ -37,13 +37,12 @@ After finishing the breadboard prototype, I recreated the circuit in KiCad, ran 
 
 ## Repository
 
-```text
 firmware/   Arduino code
 hardware/   KiCad schematic and PCB
 gerbers/    Manufacturing files
-images/     Project screenshots '''
+images/     Project screenshots
 
-Future Improvements
+## Future Improvements
 Tap tempo
 More rhythm modes
 Standalone PCB without the Arduino Uno
