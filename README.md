@@ -35,19 +35,21 @@ After finishing the breadboard prototype, I recreated the circuit in KiCad, ran 
 - 220Ω resistor
 - 2 pushbuttons
 
-## Repository
-
-firmware/   Arduino code
-hardware/   KiCad schematic and PCB
-gerbers/    Manufacturing files
-images/     Project screenshots
-
 ## Future Improvements
 Tap tempo
 More rhythm modes
 Standalone PCB without the Arduino Uno
 Enclosure
 Improved buzzer volume control
+
+## Repository
+
+```text
+firmware/   Arduino code
+hardware/   KiCad schematic and PCB
+gerbers/    Manufacturing files
+images/     Project screenshots
+
 Version
 
 Morgan's Metronome v1.0
