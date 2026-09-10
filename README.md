@@ -1,6 +1,7 @@
 # Morgan's Metronome v1.0
 
 Arduino-based digital metronome developed from a breadboard prototype into a custom KiCad PCB shield. (First Project)
+I built this project to learn how to use Arduino hardware and software and to create a working metronome instead of having to purchase one to practice my sax.
 
 ## Features
 
@@ -23,7 +24,12 @@ I originally used `delay()` for timing, but testing against a reference metronom
 
 I also replaced button-based BPM control with a potentiometer. Since the analog input was too sensitive, I rounded the BPM to 5 BPM increments.
 
-After finishing the breadboard prototype, I recreated the circuit in KiCad, ran ERC/DRC checks, selected and measured component footprints, routed the PCB, added a bottom GND plane, and generated Gerber files for manufacturing.
+After finishing the breadboard prototype
+- I recreated the circuit in KiCad
+- Ran ERC/DRC checks
+- Selected and measured component footprints
+- Routed the PCB, added a bottom GND plane
+- Generated Gerber files 
 
 ## Hardware
 
