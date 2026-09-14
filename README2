@@ -1,0 +1,16 @@
+Mechanical Enclosure
+The mechanical enclosure for this project was designed by Jordan Lin.
+
+Jordan designed a custom SolidWorks casing around the metronome PCB and supporting plate hardware. The enclosure was developed to securely package the electronics while maintaining access to the PCB and allowing the board to be removed when required.
+
+Enclosure Features
+Custom tapered SolidWorks casing
+100 mm × 90 mm PCB mounting cavity
+Separate 71 mm × 55 mm secondary plate cavity
+Wiring clearance and pass-through features
+M3 screw pivot system
+Two movable PCB retaining rails
+Mechanical rail stops
+SolidWorks assembly testing to verify rail movement and PCB accessibility
+
+The original retention concept used a single rail across the PCB. During assembly testing, this was found to obstruct access to PCB controls. The system was redesigned to use separate top and bottom retaining rails, allowing the PCB to remain secure while keeping its controls accessible.
