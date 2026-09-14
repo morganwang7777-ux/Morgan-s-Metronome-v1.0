@@ -1,6 +1,6 @@
 # Mechanical Enclosure
 
-The mechanical enclosure for this project was designed by **Jordan Lin**.
+The mechanical enclosure for this project was designed by **Jordan Lin https://github.com/jordanlin0603/Jordan-s-Metronome-Casing-**.
 
 Jordan created a custom **SolidWorks enclosure** around the metronome PCB and supporting plate hardware. The enclosure was designed to securely package the electronics while maintaining access to the PCB and allowing the board to be removed when required.
 
