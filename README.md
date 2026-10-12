@@ -1,4 +1,6 @@
 # Morgan's Metronome v1.0
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/b956e32b-061d-489f-a3fa-dd23cac64a6a" />
+<img width="767" height="1024" alt="image" src="https://github.com/user-attachments/assets/c355b625-1a8f-4ea0-9a8d-f647a25bafec" />
 
 Arduino-based digital metronome developed from a breadboard prototype into a custom KiCad PCB shield. (First Project)
 I built this project to learn how to use Arduino hardware and software and to create a working metronome instead of having to purchase one to practice my sax.
